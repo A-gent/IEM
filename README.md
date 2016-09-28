@@ -1,2 +1,2 @@
-# AfterLife-Wanfest-Overwatch-Tournament
-The 100-man lan's own Wanfest for Overwatch, completely planned and executed by Agent.
+# AfterLife-Wanfest-Tournament
+The 100-man lan's own Intermediate Expo Madcap tournament, completely (100%) planned and (90%) executed by Agent
